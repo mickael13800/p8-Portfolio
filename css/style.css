@@ -925,3 +925,18 @@ textarea {
   font-size: 3em;
   color: white;
 }
+
+.liste-objectifs {
+  font-size: 1.8rem;
+  line-height: 1.7;
+  color: grey;
+  margin-bottom: 2rem;
+}
+
+.objectifs-projets {
+  list-style-type: disc;
+}
+
+.objectifs-soulignes {
+  text-decoration: underline;
+}
