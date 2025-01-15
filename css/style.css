@@ -931,6 +931,9 @@ textarea {
   font-size: 3em;
   color: white;
 }
+.perso {
+  text-decoration: underline;
+}
 
 .liste-objectifs {
   font-size: 1.8rem;
