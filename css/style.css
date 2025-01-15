@@ -869,6 +869,8 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 80rem;
+  margin: auto;
 }
 .skills__skill {
   padding: 1rem 2rem;
@@ -879,6 +881,10 @@ textarea {
   border-radius: 5px;
   font-weight: 600;
   color: #777;
+}
+.skills-projets {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .mouse {
